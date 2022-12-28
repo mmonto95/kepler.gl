@@ -1,0 +1,5 @@
+[data-for="filter-nav"], [data-for="interaction-nav"], [data-for="map-nav"],
+.source-data-catalog, .add-data-button, .side-panel-divider, .add-layer-button,
+.side-panel__top__actions, .layer__remove-layer, .layer__enable-config, .layer__duplicate {
+    display: none;
+}
